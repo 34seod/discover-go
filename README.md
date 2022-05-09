@@ -1,0 +1,2 @@
+# discover-go
+golang practice
